@@ -1,9 +1,9 @@
-## [Help Maintain Vundle](https://github.com/gmarik/Vundle.vim/issues/383)
+## [Help Maintain Vundle](https://github.com/namikr)
 
-## About
+## About ***
 
 [Vundle] is short for _Vim bundle_ and is a [Vim] plugin manager.
-
+#####################################################################
 [Vundle] allows you to...
 
 * keep track of and [configure] your plugins right in the `.vimrc`
