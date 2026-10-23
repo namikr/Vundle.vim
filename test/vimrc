@@ -22,7 +22,6 @@ exec 'set rtp^='.bundle_dir.'Vundle.vim/'
 
 call vundle#rc(bundle_dir)
 
-
 Plugin 'molokai' " vim-scripts name
 
 " github username with dashes
